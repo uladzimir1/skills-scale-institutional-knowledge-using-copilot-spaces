@@ -20,3 +20,11 @@ Quality assurance is embedded throughout execution and release, not treated as a
 - [Release & Deployment](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+
+## Templates & Checklists
+
+- [Risk Register Template](octoacme-risk-register-template.md)
+- [Change Control Log](octoacme-change-control-log.md)
+- [QA Checklist](octoacme-qa-checklist.md)
+- [Definition of Done](octoacme-definition-of-done.md)
+- [Release Readiness Checklist](octoacme-release-readiness-checklist.md)
